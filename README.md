@@ -5,10 +5,11 @@
 - Spring Boot
 - Spring Data JPA
 - Spring MVC
-- Spring Acctuator
+- Spring Actuator
 - Docker
 - Docker Compose (Spring 3.1)
-- PostgreSQL Database
+- H2 Database (for local development)
+- PostgreSQL Database (For production)
 
 ## Modules
 
