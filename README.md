@@ -1,4 +1,4 @@
-# FindJobApplication
+# JobSearchApplication
 
 ## Technologies
 - Java
